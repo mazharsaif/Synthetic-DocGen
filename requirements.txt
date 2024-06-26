@@ -1,0 +1,6 @@
+#python3.11
+docxtpl
+python-docx
+
+openpyxl
+excel2img #python3.7 

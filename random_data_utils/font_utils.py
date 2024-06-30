@@ -12,7 +12,7 @@ def get_random_font():
          size=random.choice(list(range(5, 15))),
          bold = random.choice([False, True, False]),
          italic = random.choice([False, True]),
-     #     underline = random.choice([False, True]),
+        #  underline = random.choice(['doubleAccounting', 'single', 'singleAccounting', 'double']),
         #  color = random.choice(['FF000000', ])
          )
     
